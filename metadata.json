@@ -1,0 +1,6 @@
+{
+  "name": "SnapAndSort",
+  "description": "Upload or scan a photo of trash to instantly identify which bin it belongs to and find disposal instructions using AI screening.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
